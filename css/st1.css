@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    height: 100%;
+    justify-content: center;
+}
+h1{
+    transform: translateY(50px);
+    color:#ffffff;
+    font-family:Ink free;
+    font-size: 35px;
+    text-align: center;
+    margin: 20px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+nav a {
+    transform: translateY(50px);
+    padding: 20px 100px;;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 0px;
+    text-align: center;
+    width: center;
+    margin: 5px;
+}
+nav a:hover {
+    background-color: rgb(255, 255, 255);
+}
+a{
+    font-family:'Ink free';
+    font-size: 30px;
+}
+.center-image{
+    transform: translateY(50px);
+    text-align: center;
+    margin: 20px;
+}
+.slova{ 
+    transform: translateY(50px);
+    color:#ffffff;
+    font-family: Segoe Script;
+    font-size: 24px;
+    text-align: center;
+    margin: 20px;
+}
